@@ -8,6 +8,11 @@ body {
   min-width: 320px;
   margin: auto; }
 
+img {
+  display: block;
+  margin: 0 auto;
+  border: solid 3px; }
+
 a {
   color: rgba(0, 0, 0, 0.7); }
   a:focus, a:hover {
